@@ -17,6 +17,7 @@ aplikacija je namjenjena kao način mladim ljudima da upoznaju novu ekipu kroz r
 Prototip: https://www.figma.com/proto/3LniLzJkpnuCzoXe8DkiAi/Pozovi-Ekipu?node-id=83%3A1478&scaling=scale-down
 
 Zaduženja: 
+Ademir Hodžić - programiranje chat
 ## Project setup
 ```
 npm install
